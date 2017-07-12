@@ -4,9 +4,13 @@ Project2
 設計規格
 ----------------
 > Node.JS 使用 Express 框架
+
 > 資料庫使用 MongoDB
+
 > API 架構須符合 RESTful
+
 > 整體架構須符合 MVC 或 MVVM
+
 > 前端樣版或框架可自行決定
 
 需求清單
